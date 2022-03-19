@@ -1,5 +1,9 @@
 ---
-Michael Holloway
+## Michael Holloway
+
+#### Welcome to my portfolio github profile!
+
+##### This is a showcase of my past, current, and will hold my future projects.
 ---
 
 > Involved in and learning from many hobbies and projects, including:
