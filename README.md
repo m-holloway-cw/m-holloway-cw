@@ -3,7 +3,7 @@
 
 #### Welcome to my portfolio github profile!
 
-##### This is a showcase of my past, current, and will hold my future projects.
+##### This is a showcase of my relevant projects.
 ---
 
 > Involved in and learning from many hobbies and projects, including:
